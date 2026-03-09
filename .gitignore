@@ -1,0 +1,4 @@
+models/
+*.safetensors
+*.pt
+*.pth
